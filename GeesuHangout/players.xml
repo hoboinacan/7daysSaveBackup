@@ -1,8 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <persistentplayerdata>
-  <player platform="EOS" userid="0002b66057c44a719f3861d37d514198" nativeplatform="Steam" nativeuserid="76561197970305361" playername="E-Rock" lastlogin="2024-08-02 11:56:25" position="-315,65,-1465">
+  <player platform="EOS" userid="0002b66057c44a719f3861d37d514198" nativeplatform="Steam" nativeuserid="76561197970305361" playername="E-Rock" lastlogin="2024-08-02 23:01:36" position="72,35,-662">
+    <acl platform="EOS" userid="0002dab5fb9146d39f6d52839f769a15" />
+    <lpblock pos="78,35,-623" />
+    <bedroll pos="70,30,-667" />
     <questpositions>
-      <position id="-610553908" positiondatatype="2" pos="263,54,-861" />
+      <position id="-243298799" positiondatatype="2" pos="-2741,33,600" />
+      <position id="-243298799" positiondatatype="0" pos="274,36,-833" />
+    </questpositions>
+  </player>
+  <player platform="EOS" userid="0002dab5fb9146d39f6d52839f769a15" nativeplatform="Steam" nativeuserid="76561198052566017" playername="[W.a.P]Safety Cursed" lastlogin="2024-08-02 23:00:21" position="73,35,-665">
+    <acl platform="EOS" userid="0002b66057c44a719f3861d37d514198" />
+    <lpblock pos="72,38,-664" />
+    <bedroll pos="72,30,-663" />
+    <questpositions>
+      <position id="-1353635820" positiondatatype="2" pos="-2741,33,600" />
+      <position id="-1353635820" positiondatatype="0" pos="274,36,-833" />
+      <position id="318409432" positiondatatype="2" pos="104,34,-768" />
+      <position id="318409432" positiondatatype="0" pos="274,36,-833" />
+      <position id="318409432" positiondatatype="7" pos="118,36,-754" />
     </questpositions>
   </player>
 </persistentplayerdata>
