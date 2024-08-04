@@ -536,7 +536,7 @@
   <!-- *** BIOME_ANIMAL_INDIVIDUAL_GROUPS -->
   <entitygroup name="ZombieDogGroup">animalZombieDog</entitygroup>
   <entitygroup name="WolfGroup">animalWolf<entity name="animalWolfElectric" prob=".01"><!--Element appended by: "Erocks_Mod"--></entity><entity name="animalWolfFire" prob=".01"><!--Element appended by: "Erocks_Mod"--></entity></entitygroup>
-  <entitygroup name="VultureGroup">animalZombieVulture<entity name="zombieclaus" prob=".01"><!--Element appended by: "Erocks_Mod"--></entity></entitygroup>
+  <entitygroup name="VultureGroup">animalZombieVulture</entitygroup>
   <entitygroup name="SnakeGroup">animalSnake</entitygroup>
   <entitygroup name="BoarGroup">animalBoar</entitygroup>
   <entitygroup name="GraceGroup">animalBossGrace</entitygroup>
