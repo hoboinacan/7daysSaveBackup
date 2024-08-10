@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <persistentplayerdata>
-  <player platform="EOS" userid="0002b66057c44a719f3861d37d514198" nativeplatform="Steam" nativeuserid="76561197970305361" playername="E-Rock" lastlogin="2024-08-04 00:31:59" position="-2644,36,635">
+  <player platform="EOS" userid="0002b66057c44a719f3861d37d514198" nativeplatform="Steam" nativeuserid="76561197970305361" playername="E-Rock" lastlogin="2024-08-07 21:19:39" position="-2644,36,634">
     <acl platform="EOS" userid="0002dab5fb9146d39f6d52839f769a15" />
     <lpblock pos="78,35,-623" />
     <bedroll pos="-2647,36,624" />
@@ -8,12 +8,13 @@
       <position id="-633980078" positiondatatype="2" pos="186,34,-857" />
       <position id="-633980078" positiondatatype="0" pos="274,36,-833" />
       <position id="-633980078" positiondatatype="7" pos="203,35,-836" />
-      <position id="-1270763455" positiondatatype="2" pos="-2743,33,706" />
-      <position id="-1270763455" positiondatatype="0" pos="-2733,38,645" />
-      <position id="-1270763455" positiondatatype="7" pos="-2719,35,764" />
+      <position id="1924564516" positiondatatype="2" pos="-2292,34,-1" />
+      <position id="1924564516" positiondatatype="0" pos="-2733,38,645" />
+      <position id="-2006594555" positiondatatype="2" pos="-2672,30,780" />
+      <position id="-2006594555" positiondatatype="0" pos="-2733,38,645" />
     </questpositions>
   </player>
-  <player platform="EOS" userid="0002dab5fb9146d39f6d52839f769a15" nativeplatform="Steam" nativeuserid="76561198052566017" playername="[W.a.P]Safety Cursed" lastlogin="2024-08-04 00:31:52" position="-2641,36,631">
+  <player platform="EOS" userid="0002dab5fb9146d39f6d52839f769a15" nativeplatform="Steam" nativeuserid="76561198052566017" playername="[W.a.P]Safety Cursed" lastlogin="2024-08-07 19:11:48" position="-2641,36,634">
     <acl platform="EOS" userid="0002b66057c44a719f3861d37d514198" />
     <lpblock pos="72,38,-664" />
     <lpblock pos="-2642,35,630" />
@@ -24,12 +25,12 @@
       <position id="564566821" positiondatatype="7" pos="203,35,-836" />
       <position id="-633980078" positiondatatype="2" pos="186,34,-857" />
       <position id="-633980078" positiondatatype="0" pos="274,36,-833" />
-      <position id="-633980078" positiondatatype="7" pos="203,35,-836" />
-      <position id="1937712807" positiondatatype="2" pos="-2594,33,1261" />
-      <position id="1937712807" positiondatatype="0" pos="-2733,38,645" />
-      <position id="-1270763455" positiondatatype="2" pos="-2743,33,706" />
-      <position id="-1270763455" positiondatatype="0" pos="-2733,38,645" />
-      <position id="-1270763455" positiondatatype="7" pos="-2719,35,764" />
+      <position id="322571843" positiondatatype="2" pos="-2292,34,-1" />
+      <position id="322571843" positiondatatype="0" pos="-2733,38,645" />
+      <position id="-1985221074" positiondatatype="2" pos="-2364,28,1005" />
+      <position id="-1985221074" positiondatatype="0" pos="-2733,38,645" />
+      <position id="-2006594555" positiondatatype="2" pos="-2672,30,780" />
+      <position id="-2006594555" positiondatatype="0" pos="-2733,38,645" />
     </questpositions>
   </player>
 </persistentplayerdata>
