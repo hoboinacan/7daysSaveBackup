@@ -1,0 +1,42 @@
+﻿<qualityinfo>
+  <!--Broken-->
+  <quality key="0" color="808080">
+    <!--Attribute "color" replaced by: "Joke_Mod"-->
+  </quality>
+  <!--Junk -->
+  <quality key="1" color="ffffff">
+    <!--Attribute "color" replaced by: "Joke_Mod"-->
+  </quality>
+  <!--Common-->
+  <quality key="2" color="787878">
+    <!--Attribute "color" replaced by: "Joke_Mod"-->
+  </quality>
+  <!--Uncommon-->
+  <quality key="3" color="7C4700">
+    <!--Attribute "color" replaced by: "Joke_Mod"-->
+  </quality>
+  <!--Rare-->
+  <quality key="4" color="3BB143">
+    <!--Attribute "color" replaced by: "Joke_Mod"-->
+  </quality>
+  <!--Epic-->
+  <quality key="5" color="0018F9">
+    <!--Attribute "color" replaced by: "Joke_Mod"-->
+  </quality>
+  <!--Legendary-->
+  <quality key="6" color="77009e">
+    <!--Attribute "color" replaced by: "Joke_Mod"-->
+  </quality>
+  <quality key="7" color="FC0FC0">
+    <!--Element appended by: "Joke_Mod"-->
+  </quality>
+  <quality key="8" color="FF0800">
+    <!--Element appended by: "Joke_Mod"-->
+  </quality>
+  <quality key="9" color="FC6600">
+    <!--Element appended by: "Joke_Mod"-->
+  </quality>
+  <quality key="10" color="F9A602">
+    <!--Element appended by: "Joke_Mod"-->
+  </quality>
+</qualityinfo>

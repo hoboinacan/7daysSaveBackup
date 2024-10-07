@@ -1,0 +1,88 @@
+﻿<doc>
+  <backgrounds>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingBull.png">
+      <!--Attribute "file" replaced by: "Joke_Mod"-->
+    </tex>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingDesert.png">
+      <!--Attribute "file" replaced by: "Joke_Mod"-->
+    </tex>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingPixelJeep.png">
+      <!--Attribute "file" replaced by: "Joke_Mod"-->
+    </tex>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingBigHead.png">
+      <!--Attribute "file" replaced by: "Joke_Mod"-->
+    </tex>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingToilet.png">
+      <!--Element appended by: "Joke_Mod"-->
+    </tex>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingBillboard.png">
+      <!--Element appended by: "Joke_Mod"-->
+    </tex>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingPolys.png">
+      <!--Element appended by: "Joke_Mod"-->
+    </tex>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingRocket.png">
+      <!--Element appended by: "Joke_Mod"-->
+    </tex>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingSkeleton.png">
+      <!--Element appended by: "Joke_Mod"-->
+    </tex>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingGoose.png">
+      <!--Element appended by: "Joke_Mod"-->
+    </tex>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingClown.png">
+      <!--Element appended by: "Joke_Mod"-->
+    </tex>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingComputer.png">
+      <!--Element appended by: "Joke_Mod"-->
+    </tex>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingBoulder.png">
+      <!--Element appended by: "Joke_Mod"-->
+    </tex>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingUnicorn.png">
+      <!--Element appended by: "Joke_Mod"-->
+    </tex>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingGooseTrader.png">
+      <!--Element appended by: "Joke_Mod"-->
+    </tex>
+    <tex file="@modfolder(Joke_Mod):Textures/UI/LoadingVehicles.png">
+      <!--Element appended by: "Joke_Mod"-->
+    </tex>
+  </backgrounds>
+  <tips>
+    <tip key="loadingTipMainHUD" />
+    <tip key="loadingTipStoneAxe" />
+    <tip key="loadingTipHarvestingResources" />
+    <tip key="loadingTipDistraction" />
+    <tip key="loadingTipStealth" />
+    <tip key="loadingTipEncumbrance" />
+    <tip key="loadingTipArmor" />
+    <tip key="loadingTipBandages" />
+    <!-- <tip key="loadingTipJournalEntries" /> -->
+    <tip key="loadingTipQuestSharing" />
+    <tip key="loadingTipWhatIsItGoodFor" />
+    <tip key="loadingTipWorkstations" />
+    <tip key="loadingTipUnlockingRecipes" />
+    <tip key="loadingTipCraftingBetterQL" />
+    <tip key="loadingTipMagazines" />
+    <tip key="loadingTipPerkLootBoost" />
+    <tip key="loadingTipBaseUpgrading" />
+    <tip key="loadingTipRadials" />
+    <tip key="loadingTipHarvestingCorpses" />
+    <tip key="loadingTipGlue" />
+    <tip key="loadingTipProperTools" />
+    <tip key="loadingTipItemStats" />
+    <tip key="loadingTipExtCharStats" />
+    <tip key="loadingTipBladedWeapons" />
+    <tip key="loadingTipPickaxes" />
+    <tip key="loadingTipAxes" />
+    <tip key="loadingTipSteelKnuckles" />
+    <tip key="loadingTipWrenches" />
+    <tip key="loadingTipSledgehammers" />
+    <tip key="loadingTipUsingIronTools" />
+    <tip key="loadingTipScrapping" />
+    <tip key="loadingTipBuffs" />
+    <tip key="loadingTipKnownSchematics" />
+    <tip key="loadingTipTwitchIntegration" />
+  </tips>
+</doc>
